@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [dianamosquera.github.io](dianamosquera.github.io)
 
-- 📝 I regularly write articles on [@msrobot_d](@msrobot_d)
-
-- 💬 Ask me about **Artificial Intelligence, design products**
+- 💬 Ask me about **Artificial Intelligence, design products, HCI**
 
 - 📫 How to reach me **diana@diversa.studio**
 
