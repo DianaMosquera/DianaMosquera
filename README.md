@@ -5,10 +5,8 @@
 
 - 🔭 I’m currently working on **Diversa Studio**
 
-- 👨‍💻 All of my projects are available at [dianamosquera.github.io](dianamosquera.github.io)
-
 - 💬 Ask me about **Ethics in AI,privacy, politics, power and Artificial Intelligence, design products, HCI**
-- 💜 Interested in feminism and technology
+- 💜 Interested in feminism , power and technology.
 - 📫 How to reach me **diana@diversa.studio**
 
 <h3 align="left">Connect with me:</h3>
