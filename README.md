@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">A passionate design, privacy ,ethics in AI research from Ecuador</h3>
+<h3 align="center">A passionate physics, design, privacy tech and power research from Ecuador</h3>
 
 <p align="left"> <a href="https://twitter.com/msrobot_d" target="blank"><img src="https://img.shields.io/twitter/follow/msrobot_d?logo=twitter&style=for-the-badge" alt="msrobot_d" /></a> </p>
 
