@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/msrobot_d" target="blank"><img src="https://img.shields.io/twitter/follow/msrobot_d?logo=twitter&style=for-the-badge" alt="msrobot_d" /></a> </p>
 
-- 🔭 I’m currently working on **Diversa Studio**
+- 🔭 I’m currently working on **Diversa**
 
 - 💬 Ask me about **Ethics in AI,privacy, politics, power and Artificial Intelligence, design products, HCI**
 - 💜 Interested in feminism , power and technology.
